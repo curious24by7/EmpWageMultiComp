@@ -1,0 +1,13 @@
+C:\Users\soham\source\repos\FinalUsecase\FinalUsecase\bin\Debug\netcoreapp3.1\FinalUsecase.exe
+C:\Users\soham\source\repos\FinalUsecase\FinalUsecase\bin\Debug\netcoreapp3.1\FinalUsecase.deps.json
+C:\Users\soham\source\repos\FinalUsecase\FinalUsecase\bin\Debug\netcoreapp3.1\FinalUsecase.runtimeconfig.json
+C:\Users\soham\source\repos\FinalUsecase\FinalUsecase\bin\Debug\netcoreapp3.1\FinalUsecase.runtimeconfig.dev.json
+C:\Users\soham\source\repos\FinalUsecase\FinalUsecase\bin\Debug\netcoreapp3.1\FinalUsecase.dll
+C:\Users\soham\source\repos\FinalUsecase\FinalUsecase\bin\Debug\netcoreapp3.1\FinalUsecase.pdb
+C:\Users\soham\source\repos\FinalUsecase\FinalUsecase\obj\Debug\netcoreapp3.1\FinalUsecase.csprojAssemblyReference.cache
+C:\Users\soham\source\repos\FinalUsecase\FinalUsecase\obj\Debug\netcoreapp3.1\FinalUsecase.AssemblyInfoInputs.cache
+C:\Users\soham\source\repos\FinalUsecase\FinalUsecase\obj\Debug\netcoreapp3.1\FinalUsecase.AssemblyInfo.cs
+C:\Users\soham\source\repos\FinalUsecase\FinalUsecase\obj\Debug\netcoreapp3.1\FinalUsecase.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\FinalUsecase\FinalUsecase\obj\Debug\netcoreapp3.1\FinalUsecase.dll
+C:\Users\soham\source\repos\FinalUsecase\FinalUsecase\obj\Debug\netcoreapp3.1\FinalUsecase.pdb
+C:\Users\soham\source\repos\FinalUsecase\FinalUsecase\obj\Debug\netcoreapp3.1\FinalUsecase.genruntimeconfig.cache
